@@ -547,3 +547,12 @@ ul.contact-social_icons li a {
     font-size: 18px;
     text-transform: capitalize;
 }
+
+@media only screen and (max-width: 600px) {
+	.navbar-default .navbar-brand{
+		font-size: 25px;
+	}
+	h1 {
+		font-size: 35px;
+	}
+}
